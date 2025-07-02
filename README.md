@@ -1,6 +1,6 @@
 # Hi there, I'm Rahib! 👋
 
-### 🎓 Computer Science Student | 📊 Aspiring Data Scientist | 🤖 ML Enthusiast
+### 📊 Data Scientist | 🤖 ML Enthusiast | 🎓 Computer Science Student
 
 I'm a 3rd-year Computer Science student at the University of Sydney with a minor in Data Science, passionate about extracting insights from data and building intelligent systems. Currently seeking internship and full-time opportunities in **Data Science**, **Data Analytics**, and **Machine Learning**.
 
