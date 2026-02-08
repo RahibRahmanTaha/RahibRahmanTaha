@@ -1,22 +1,22 @@
 # Hi there, I'm Rahib! 👋
 
-### 📊 Data Scientist | 🤖 ML Enthusiast | 🎓 Computer Science Student
+### Data Scientist | ML Enthusiast | Computer Science Student
 
 I'm a 3rd-year Computer Science student at the University of Sydney with a minor in Data Science, passionate about extracting insights from data and building intelligent systems. Currently seeking internship and full-time opportunities in **Data Science**, **Data Analytics**, and **Machine Learning**.
 
 ---
 
-## 🔍 About Me
+## About Me
 
-- 🎯 **Goal**: Leveraging data to solve real-world problems and drive business decisions
-- 📚 **Currently Learning**: Time Series Analysis, Deep Learning, Neural Networks
-- 🌱 **Interests**: Predictive modeling, statistical analysis, data visualization, and ML model deployment
-- 📍 **Location**: Sydney, Australia
-- 💼 **Open to**: Data Science internships and graduate roles
+- **Goal**: Leveraging data to solve real-world problems and drive business decisions
+- **Currently Learning**: Time Series Analysis, Deep Learning, Neural Networks
+- **Interests**: Predictive modeling, statistical analysis, data visualization, and ML model deployment
+- **Location**: Sydney, Australia
+- **Open to**: Data Science internships and graduate roles
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
